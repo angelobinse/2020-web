@@ -57,7 +57,19 @@
 <p>TO LANÇANDO MEU SIIIIIIIIIIIIIIIIIITTTTTTTTTTTTTTTTTTTTTTTTTTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</p>
 <div class="noticias">
   <h3>Noticia 1</h3>
+  <p>
+  Vai na sua pasta/repositório no PC
+  Botão direito -> Git BASH here
 
+  git add *
+
+  git config user.email "rafael.zottesso@ifpr.edu.br"
+
+  git commit -m "Descrição do que vc fez"
+
+  git push
+
+  (digitar usuário e senha pra enviar)</p>
 
   <p>Uma batida entre um carro e um ônibus do transporte público deixou cinco pessoas feridas,
     neste sábado (21), na Cidade Industrial de Curitiba (CIC), de acordo com a Polícia Militar (PM).</p>

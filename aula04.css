@@ -1,0 +1,35 @@
+*{
+
+  margin: 0px;
+  padding: 0px;
+  font-family: Lobster;
+}
+body{
+  background-color: #DADADA;
+}
+.site{
+  background-color: #ffffff;
+  /*  Tamnho do SIIIIIITTTTTTTTTEEEEEEEEEEEEEEEEEEEEEEEEEE */
+  width: 800px;
+  /*  Centralizndo o bagui*/
+  margin: 0px auto;
+  padding: 50px;
+
+  border: dashed 50px yellow;
+  border-top: 50px
+
+
+}
+.site .conteudo{
+  /*background-color: yellow;*/
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  background-color: #CCCCCC;
+
+
+}
+.site .rodape, .site .topo{
+  text-align: center;
+  background-color: red;
+}
