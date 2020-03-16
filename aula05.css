@@ -1,0 +1,90 @@
+*{
+
+  margin: 0px;
+  padding: 0px;
+  font-family: Lobster;
+}
+body{
+  background-color: #DADADA;
+}
+.site{
+  background-color: #ffffff;
+  /*  Tamnho do SIIIIIITTTTTTTTTEEEEEEEEEEEEEEEEEEEEEEEEEE */
+  width: 800px;
+  /*  Centralizndo o bagui*/
+  margin: 0px auto;
+  padding: 50px;
+
+  border: dashed 50px yellow;
+  border-top: 50px
+
+
+}
+.site .conteudo{
+  /*background-color: yellow;*/
+  min-height: 300px;
+  margin: 15px 0px;
+  padding: 15px 0px;
+  /* background-color: #CCCCCC; */
+
+
+}
+.site .rodape, .site .topo{
+  text-align: center;
+  background-color: red;
+}
+.botao{
+  font-size: 30px;
+  text-decoration: none;
+  padding: 10px 20px;
+  display: block;
+  border-radius: 100px;
+  color: #ff9900;
+}
+.botao-azul{
+  background-color: #0099ff;
+  border: solid 2px;
+}
+.botao-verde{
+  background-color: #66ff33;
+  border: solid 2px;
+}
+.botao-vermelho{
+  background-color: #ff3300;
+  border: solid 2px;
+}
+.botao-azul:hover{
+  background-color: #ff33cc;
+  font-size: 31px;
+  /* border: solid 2px; */
+}
+.botao-verde:hover{
+  background-color: #ff33cc;
+  font-size: 31px;
+  /* border: solid 2px; */
+}
+.botao-vermelho:hover{
+  background-color: #ff33cc;
+  font-size: 31px;
+  /* border: solid 2px; */
+}
+
+.menu{
+  background-color: #ff9900;
+}
+.menu ul {
+  list-style-type: none;
+}
+.menu ul li{
+
+  display: inline-block;
+}
+.menu a{
+  color : white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 15px;
+}
+.menu a:hover{
+  background-color: #804d00;
+}
